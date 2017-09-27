@@ -10,7 +10,7 @@ package la3scm;
  * @author g00058722
  */
 public class LA3SCM {
-  void addFeatureB() {
+  void addFeatureA() {
   }
     /**
      * @param args the command line arguments
