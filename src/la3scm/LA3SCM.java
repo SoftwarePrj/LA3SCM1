@@ -12,6 +12,8 @@ package la3scm;
 public class LA3SCM {
   void addFeatureA() {
   }
+  void addFeatureB() {
+  }
     /**
      * @param args the command line arguments
      */
