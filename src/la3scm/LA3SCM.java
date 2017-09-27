@@ -10,12 +10,13 @@ package la3scm;
  * @author g00058722
  */
 public class LA3SCM {
-
+  void addFeatureB() {
+  }
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         System.out.println("Hello World");
     }
-    
+  
 }
